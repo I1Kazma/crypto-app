@@ -1,5 +1,5 @@
-import { Flex, Tag, Divider, Typography } from "antd";
-import { CoinInfo } from "./coinInfo";
+import { Tag, Typography } from "antd";
+import { CoinInfo } from "./CoinInfo";
 
 export function CoinInfoModal({ coin }) {
   return (
