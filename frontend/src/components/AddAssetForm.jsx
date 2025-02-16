@@ -13,7 +13,7 @@ import {
   Result,
 } from "antd";
 import { useCrypto } from "../context/crypto-context";
-import { CoinInfo } from "./coinInfo";
+import { CoinInfo } from "./CoinInfo";
 
 const validateMessages = {
   required: "${label} is required!",
